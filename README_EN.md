@@ -1,6 +1,45 @@
-# Map SDK - 3D Earth Rendering Engine
+<h1 align="center">LACDT Render WebSDK - 3D Earth Rendering Engine</h1>
 
-![Rendering Engine Preview](https://gitee.com/ASun001/Resource/raw/master/RenderPreview.png)
+<p align="center">A Cesium-based 3D Earth rendering engine providing rich map operations and data analysis capabilities. It adopts a modular architecture with multiple functional systems, supporting map loading, layer management, building model display, measurement tools, 3D Tiles search, and more.</p>
+
+<p align="center">
+  <a href="https://github.com/ASunYC/sdk-render/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/ASunYC/sdk-render.svg?style=flat&colorA=080f12&colorB=1fa669" alt="License">
+  </a>
+  <a href="https://github.com/ASunYC/sdk-render">
+    <img src="https://img.shields.io/github/stars/ASunYC/sdk-render?style=flat&colorA=080f12&colorB=1fa669" alt="Stars">
+  </a>
+  <a href="https://github.com/ASunYC/sdk-render/issues">
+    <img src="https://img.shields.io/github/issues/ASunYC/sdk-render?style=flat&colorA=080f12&colorB=1fa669" alt="Issues">
+  </a>
+  <a href="https://www.npmjs.com/package/@metagl/sdk-render">
+    <img src="https://img.shields.io/npm/v/@metagl/sdk-render.svg?style=flat&colorA=080f12&colorB=1fa669" alt="NPM">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#core-features">Core Features</a> •
+  <a href="#quick-start">Quick Start</a> •
+  <a href="#system-architecture">System Architecture</a> •
+  <a href="#changelog">Changelog</a> •
+  <a href="#contact-information">Contact</a>
+</p>
+
+<picture>
+  <source
+    width="100%"
+    srcset="https://gitee.com/ASun001/Resource/raw/master/RenderPreview.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    width="100%"
+    srcset="https://gitee.com/ASun001/Resource/raw/master/RenderPreview.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="250" src="https://gitee.com/ASun001/Resource/raw/master/RenderPreview.png" />
+</picture>
+
+---
 
 ## Project Introduction
 
@@ -265,7 +304,7 @@ The SDK rendering engine adopts a modular architecture, including the following 
 
 ## Changelog
 
-### V1.0.14 (2026-04-09)
+### V1.0.12 (2026-04-09)
 
 #### New Features
 - **Resource Path Management System**
