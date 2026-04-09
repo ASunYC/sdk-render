@@ -12,8 +12,8 @@
   <a href="https://github.com/ASunYC/sdk-render/issues">
     <img src="https://img.shields.io/github/issues/ASunYC/sdk-render?style=flat&colorA=080f12&colorB=1fa669" alt="Issues">
   </a>
-  <a href="https://pypi.org/project/open-agent/">
-    <img src="https://img.shields.io/pypi/v/open-agent.svg?style=flat&colorA=080f12&colorB=1fa669" alt="PyPI">
+  <a href="https://www.npmjs.com/package/@metagl/sdk-render">
+    <img src="https://img.shields.io/npm/v/@metagl/sdk-render.svg?style=flat&colorA=080f12&colorB=1fa669" alt="NPM Version">
   </a>
 </p>
 
